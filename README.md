@@ -80,7 +80,7 @@ Installation
 	>chmod +x build_detect_platform  
 	>make clean  
 	>make libleveldb.a libmemenv.a  
-	>cd..  
+	>cd ..  
 	>mkdir obj  
 	>make -f makefile.unix  
 	>./andescoind  
