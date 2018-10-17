@@ -73,13 +73,13 @@ Installation
 
 git clone https://github.com/andescoin andes	
 cd andes/src/leveldb
-		chmod +x build_detect_platform
-		make clean
-		make libleveldb.a libmemenv.a
-		cd..
-		mkdir obj
-		make -f makefile.unix
-		./andescoind
+	chmod +x build_detect_platform
+	make clean
+	make libleveldb.a libmemenv.a
+	cd..
+	mkdir obj
+	make -f makefile.unix
+	./andescoind
 
 
 Copyright (c) 2018 AndesCoin Developers
