@@ -6,28 +6,28 @@ ANDES COIN
 What is AndesCoin?
 ----------------
 
-AndesCoin is a cryptocurrency with the following specifications
-
-Algorithm 	Scrypt
-Type 	PoW
-Coin abbreviation 	ANDES
-Address letter 	A
-RPC port 	36434
-P2P port 	36433
-Block reward 	60 coins
-Block halving 	250000 blocks
-Coin supply 	33333333 coins
-Premine amount 	3333333 coins
-
-For more information, see https://andes-coin.com
-
-License
+AndesCoin is a cryptocurrency with the following specifications  
+  
+Algorithm 	Scrypt  
+Type 	PoW  
+Coin abbreviation 	ANDES  
+Address letter 	A  
+RPC port 	36434  
+P2P port 	36433  
+Block reward 	60 coins  
+Block halving 	250000 blocks  
+Coin supply 	33333333 coins  
+Premine amount 	3333333 coins  
+  
+For more information, see https://andes-coin.com  
+  
+License  
 -------
 
 AndesCoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
+information or see http://opensource.org/licenses/MIT.  
 
-Development process
+Development process  
 -------------------
 
 Developers work in their own trees, then submit pull requests when they think
