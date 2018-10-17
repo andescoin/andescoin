@@ -1,13 +1,4 @@
-AndesCoin integration/staging tree
-================================
-
-http://andescoin.com.ve
-
-
-http://andes-coin.com
-
-
-Copyright (c) 2018 AndesCoin Developers
+Andes Coin
 
 What is AndesCoin?
 ----------------
@@ -91,6 +82,6 @@ cd andes/src/leveldb
 		./andescoind
 
 
-
+Copyright (c) 2018 AndesCoin Developers
 
 
