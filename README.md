@@ -75,8 +75,8 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 Installation
 ------------
 
->git clone https://github.com/andescoin andes	
->cd andes/src/leveldb
+>git clone https://github.com/andescoin andes  
+>cd andes/src/leveldb  
 	>chmod +x build_detect_platform  
 	>make clean  
 	>make libleveldb.a libmemenv.a  
