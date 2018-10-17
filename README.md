@@ -1,5 +1,4 @@
-ANDES COIN
-===========
+![alt text](http://45.77.5.235:9520/static/logo.svg)
 
 
 
