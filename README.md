@@ -74,15 +74,15 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 Installation
 ------------
 
->git clone https://github.com/andescoin/andescoin.git andes  
->cd andes/src/leveldb  
-	>chmod +x build_detect_platform  
-	>make clean  
-	>make libleveldb.a libmemenv.a  
-	>cd ..  
-	>mkdir obj  
-	>make -f makefile.unix  
-	>./andescoind  
+git clone https://github.com/andescoin/andescoin.git andes  
+cd andes/src/leveldb  
+	chmod +x build_detect_platform  
+	make clean  
+	make libleveldb.a libmemenv.a  
+	cd ..  
+	mkdir obj  
+	make -f makefile.unix  
+	./andescoind  
 
 
 **Copyright (c) 2018 AndesCoin Developers**
